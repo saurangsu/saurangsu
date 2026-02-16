@@ -21,7 +21,7 @@ export default function RootLayout({
               GiftList
             </a>
             <span className="text-sm text-gray-500">
-              Smart wish lists with AI quality insights
+              Your personal gift concierge
             </span>
           </div>
         </header>

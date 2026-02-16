@@ -42,3 +42,6 @@ next-env.d.ts
 
 # sqlite database
 *.db
+
+# claude session
+claude_session.txt
